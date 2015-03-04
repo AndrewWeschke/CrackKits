@@ -1,0 +1,10 @@
+name: CrackKits
+version: 1.0
+main: me.ayylmao.crackkits.CrackKits
+author: AyyLmao
+description: KitPvP with guns
+commands:
+    assault:
+       description: Get the Assault Kit.
+    recon:
+       description: Get the Recon Kit
